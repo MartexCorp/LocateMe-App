@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766050408389",
+    "firebase_url": "https://locateme-cbcfb.firebaseio.com",
+    "project_id": "locateme-cbcfb",
+    "storage_bucket": "locateme-cbcfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766050408389:android:5843dbaeca0157cf",
+        "android_client_info": {
+          "package_name": "martex.app.com.locateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766050408389-k89189bjugcvhm046d7k6ebj02ba50qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "martex.app.com.locateme",
+            "certificate_hash": "a6a26fc3bb1f544ddd889c976820e7d5ed24f7e5"
+          }
+        },
+        {
+          "client_id": "766050408389-gpjh2nb53cqo40cdthht888eaouus1i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtp1yRNwvNvgZYooyI1-kxWc28k4yRpCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766050408389-gpjh2nb53cqo40cdthht888eaouus1i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
